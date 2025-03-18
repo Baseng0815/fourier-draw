@@ -1,0 +1,11 @@
+[package]
+name = "fourier-draw"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.31.1"
+egui = "0.31.1"
+emath = "0.31.1"
+num = "0.4.3"
+rand = "0.9.0"
